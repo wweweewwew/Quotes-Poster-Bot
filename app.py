@@ -4,7 +4,7 @@ from telegram.error import TelegramError
 import asyncio
 import schedule
 
-TELEGRAM_BOT_TOKEN = '7766130770:AAEvecoOa7r39Irm2tBMK_C7rsyxE9fgyxk'
+TELEGRAM_BOT_TOKEN = ''
 TELEGRAM_CHANNEL_ID = '@QuotesPoster'
 QUOTE_API_URL = 'http://api.forismatic.com/api/1.0/?method=getQuote&format=json&lang=ru'
 
